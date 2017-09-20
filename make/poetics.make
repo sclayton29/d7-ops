@@ -133,10 +133,10 @@ projects[views_bootstrap][download][url] = "https://github.com/OULibraries/views
 projects[views_bootstrap][type] = "module"
 
 ; Themes
-projects[oulib_bootstrap][type] = "theme"
-projects[oulib_bootstrap][download][type] = "git"
-projects[oulib_bootstrap][download][url] = "https://github.com/OULibraries/oulib_bootstrap.git"
-projects[oulib_bootstrap][download][branch] = "dev"
+projects[oulib_poetics][type] = "theme"
+projects[oulib_poetics][download][type] = "git"
+projects[oulib_poetics][download][url] = "https://github.com/OULibraries/oulib_poetics.git"
+projects[oulib_poetics][download][branch] = "master"
 
 ; Libraries
 ; Please fill the following out. Type may be one of ge
